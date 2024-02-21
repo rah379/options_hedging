@@ -1,4 +1,4 @@
 (executable
  (public_name options_hedging)
  (name main)
- (libraries options_hedging))
+ (libraries options))
